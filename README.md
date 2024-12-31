@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
    ```env
    
    Weather-App_API_URL= "https://api.openweathermap.org/data/2.5/weather"
-   Weather-App_API_KEY="cae80bc0aa54d10e011dedf29b96ae2d"
+   Weather-App_API_KEY= "cae80bc0aa54d10e011dedf29b96ae2d"
    ```
 5. Start the development server:
    ```bash
